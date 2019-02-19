@@ -1,8 +1,24 @@
 <!-- $theme: gaia -->
 
-# ==本当に簡単なkaggleの始め方 ショートversion==
+# ==本当に簡単なkaggleの始め方==
 
 ### @yukinagae
+
+<!-- page_number: false -->
+
+---
+
+# 自己紹介
+
+<img src="./images/me.png" style="float: right;" width="200">
+
+- 永江悠紀 @yukinagae
+- グロービス 2018/8〜
+- データサイエンティスト(Python/Go)
+- 経歴
+  - 元Java/Scalaエンジニア
+  - オーストラリアでデータ分析を勉強 → 今に至る
+- 最近はベイズ統計モデリングに興味ある(˘ω˘)ｽﾔｧ
 
 <!-- page_number: false -->
 
@@ -199,4 +215,10 @@ forkしたコードを実行するだけ(｀・ω・´)
 
 ## ようこそkaggle沼へ
 
-# ![center 30%](./images/me.png)
+---
+
+# 最後にいちおう
+
+## We're hiring!
+
+# ![center 50%](./images/skill.png)
