@@ -131,11 +131,9 @@
 
 ---
 
-# LRS概要
+# LRS
 
 - xAPIというデータ形式に則り、学習行動（Learning Record）を蓄積するデータベースのこと
-
-TODO: 絵
 
 <!-- page_number: true -->
 
@@ -216,7 +214,7 @@ TODO: 絵
 
 # Go + GCP
 
-TODO: 絵
+![75% center](./images/architecture.png)
 
 <!-- page_number: true -->
 
@@ -304,8 +302,8 @@ TODO: 絵
 
 # 参考資料
 
+- [まずデータをためましょう 〜ラーニングアナリティクスに必要なことと最新動向〜](https://www.nii.ac.jp/csi/openforum2016/track/pdf/20160526_LA1_3_nagai.pdf)
+- [企業内教育において最も気になる「LRSについての5つの質問」](http://edu.infosign.co.jp/blog/lrs-5)
 - [xAPI.com](https://xapi.com)
 - [あらゆる経験を集積するための仕様「Experience API」のメモ](https://qiita.com/61503891/items/fedefbc5d322b9eb1d3d)
 - [elc-gh/xAPI-Spec_ja](https://github.com/elc-gh/xAPI-Spec_ja/blob/master/xAPI_ja.md)
-- [まずデータをためましょう 〜ラーニングアナリティクスに必要なことと最新動向〜](https://www.nii.ac.jp/csi/openforum2016/track/pdf/20160526_LA1_3_nagai.pdf)
-- [企業内教育において最も気になる「LRSについての5つの質問」](http://edu.infosign.co.jp/blog/lrs-5)
