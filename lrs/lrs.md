@@ -106,7 +106,7 @@
 - 学習プロセス自体を評価したい（行動の変容）
 - etc
 
-![100% center](./images/hito_jinrui_shinka.png)
+![90% center](./images/hito_jinrui_shinka.png)
 
 <!-- page_number: true --> 
 
