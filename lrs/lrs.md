@@ -75,10 +75,10 @@
 
 # （昔）教育のデジタル化以前
 
-TODO: 絵
-
 - 紙の資料
 - 研修や学習は基本的に学校や研修センター
+
+![70% center](./images/hito4_shinjinrui_cro-magnon.png)
 
 
 <!-- page_number: true -->
@@ -87,27 +87,28 @@ TODO: 絵
 
 # （今）教育のデジタル化以後
 
-TODO: 絵
-
-- 資料はIT化されている
+- 資料はデジタル化されている
 - リモートで研修や学習ができる
 - 家や通勤中でも動画コンテンツなどで学習が可能
+
+![70% center](./images/hito5_gendaijin_homo_sapiens.png)
 
 
 <!-- page_number: true -->
 
 ---
 
-## やりたいこと
 
-TODO: 絵
+## やりたいこと
 
 - パーソナライズされた学習を提供したい
 - より効果のある学習をアシストしたい
 - 学習プロセス自体を評価したい（行動の変容）
 - etc
 
-<!-- page_number: true -->
+![100% center](./images/hito_jinrui_shinka.png)
+
+<!-- page_number: true --> 
 
 ---
 
@@ -132,9 +133,9 @@ TODO: 絵
 
 # LRS概要
 
-TODO: 絵
-
 - xAPIというデータ形式に則り、学習行動（Learning Record）を蓄積するデータベースのこと
+
+TODO: 絵
 
 <!-- page_number: true -->
 
@@ -142,7 +143,7 @@ TODO: 絵
 
 # xAPI（データ形式）
 
-- 学習行動を主語、動詞、目的物のjson形式で記述する規格
+- 学習行動を主語、動詞、目的語のjson形式で記述する規格
 - xAPI形式に準拠することで、別々のサービス上での学習行動を横断して分析ができる
 
 <!-- page_number: true -->
@@ -185,6 +186,24 @@ TODO: 絵
 
 こういうxAPIデータをひらすらためると、ユーザの学習プロセスがすべてわかる
 
+![70% center](./images/e-learning_smartphone_whiteman.png)
+
+<div>
+  <img src="./images/study_gogaku_man_listning.png" style="float: left; margin-left: 100px; margin-right: 40px;" width="180">
+  <img src="./images/study_gogaku_man_reading.png" style="float: left; margin-right: 40px;" width="180">
+  <img src="./images/study_gogaku_man_writing.png" style="float: left ; margin-right: 40px;" width="240">
+</div>
+
+<!-- page_number: true -->
+
+---
+
+# データ量がやばい
+
+- 1行動 == 1つのJSONデータ
+
+![90% center](./images/computer_big_data.png)
+
 <!-- page_number: true -->
 
 ---
@@ -205,9 +224,10 @@ TODO: 絵
 
 # このシステム構成の理由
 
-- TODO: a
-- TODO: b
-- TODO: c
+- BigQuery使いたい
+- GAE/PubSubがスケールする
+- GoだとGAEと相性よくて速い
+
 
 <!-- page_number: true -->
 
