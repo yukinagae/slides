@@ -16,8 +16,9 @@
 <img src="./images/me.png" style="float: right;" width="200">
 
 - 永江悠紀 @yukinagae
-- データサイエンティスト (python/go)
-- グロービス（教育・MBAの会社） 2018/8〜今
+- <del>データサイエンティスト</del> (˘ω˘)ｽﾔｧ
+- データエンジニア (python/go)
+- グロービス（教育・MBAの会社）
 - 経歴
   - 元Java/Scalaエンジニア
   - （突然）オーストラリアでデータ分析を勉強
