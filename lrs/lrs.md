@@ -221,8 +221,58 @@
 - 学習行動のデータの統一規格: xAPI
   - サービス横断での分析が可能
 - xAPI形式のデータを貯めるデータベース: LRS
-- Go + GCPによるなデータ基盤
+- Go + GCPによるデータ基盤
   - スケーラブルなアーキテクチャ
+
+<!-- page_number: true -->
+
+---
+
+# そして最後に
+# 一番伝えたかったこと
+
+<!-- page_number: true -->
+
+---
+
+# GCP関連でハマったときは、
+
+- [GCPUG](https://gcpug.jp) のslackですべて解決(｀・ω・´)
+
+![gcpugのGAE](./images/gcpug_gae.png)
+
+
+<!-- page_number: true -->
+
+---
+
+お？(｀・ω・´)
+
+![140% center](./images/gcpug_gae_zoom_1.png)
+
+<!-- page_number: true -->
+
+---
+
+おおおぉぉぉぉぉぉぉぉぉぉ！！！
+
+![140% center](./images/gcpug_gae_zoom_2.png)
+
+<!-- page_number: true -->
+
+---
+
+# 1分で回答がくる優しい世界
+# それが GCPUG のslack
+
+
+<!-- page_number: true -->
+
+---
+
+# みんな [GCPUG](https://gcpug.jp) の
+# slack使いましょう
+
 <!-- page_number: true -->
 
 ---
